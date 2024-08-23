@@ -1,0 +1,8 @@
+tasks:
+  Run News Scraper:
+    robotTaskName: tasks/tasks.robot
+    robot: tasks/tasks.robot
+ignoreFiles:
+  - .robocorp
+  - .git
+artifactsDir: output
